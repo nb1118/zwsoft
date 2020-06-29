@@ -25,7 +25,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key> 
-				<string>com.nb1118.zwsoft</string> 
+				<string>com.nb1118.zwsoft.ios13fix</string> 
 				<key>bundle-version</key> 
 				<string>1.2.4</string> 
 				<key>kind</key> 
